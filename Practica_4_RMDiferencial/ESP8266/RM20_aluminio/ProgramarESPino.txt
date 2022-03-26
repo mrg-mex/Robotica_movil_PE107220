@@ -1,0 +1,7 @@
+Put the ESPino in Bootloader mode:
+
+I. Press the RESET and USER/PROG buttons at the same time without releasing them
+
+II. Release the RESET button, keeping USER/PROG pressed
+
+III. Wait a second and release USER/PROG
