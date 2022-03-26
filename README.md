@@ -3,7 +3,7 @@
 
 ## Objetivo del proyecto 
 
-Elaborar material didáctico para el fortalecimiento de la asignatura de Robótica y Robótica Móvil que se imparten en la carrera de Ingeniería Mecatrónica y Posgrado de Ingeniería Mecánica, dentro del Departamento de Ingeniería Mecatrónica de la Facultad de Ingeniería de la UNAM, en las áreas de cinemática, dinámica y control de robots, con el propósito de potenciar la síntesis de estas áreas en modelos matemáticos, que será comprobados mediante simulaciones computacionales e implementados en bancos de prueba.
+Elaborar material didáctico para el fortalecimiento de la asignatura de Robótica y Robótica Móvil que se imparten en la carrera de Ingeniería Mecatrónica y Posgrado de Ingeniería Mecánica, dentro del Departamento de Ingeniería Mecatrónica de la Facultad de Ingeniería de la UNAM, en las áreas de cinemática, dinámica y control de robots, con el propósito de potenciar la síntesis de estas áreas en modelos matemáticos, que serán comprobados mediante simulaciones computacionales e implementados en bancos de pruebas.
 
 ## Responsables del proyecto
 
@@ -13,7 +13,16 @@ Elaborar material didáctico para el fortalecimiento de la asignatura de Robóti
 
 ## Introducción 
 
-En este repositorio contiene los archivos necesarios para realizar las prácticas de las asignatura de robótica que se imparte en el departamento de Ingeniería Mecatrónica de la Facultad de Ingeniería de la UNAM. Las prácticas tienen como objetivo que los alumnos adquieran conocimeintos para la construcción e implementación de robots móviles con llantas. 
+Este repositorio contiene los archivos necesarios para realizar las prácticas de la asignatura de robótica móvil que se imparte en el departamento de Ingeniería Mecatrónica de la Facultad de Ingeniería de la UNAM. Las prácticas tienen como objetivo que los alumnos adquieran conocimientos para la construcción e implementación de robots móviles con llantas. 
+
+## Índice de prácticas
+
+1. Sistema de visión con ReacTIVision
+2. Conexión Wifi
+3. Encóder de cuadratura y control de velocidad PID
+4. Robot móvil diferencial (2,0)
+5. Campos potenciales artificiales y seguimiento de trayectorias
+6. Sistema de visión con AprilTag
 
 
 ## Contacto
