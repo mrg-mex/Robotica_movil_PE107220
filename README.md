@@ -9,6 +9,8 @@ Elaborar material didáctico para el fortalecimiento de la asignatura de Robóti
 
 ### Dr. Víctor Javier González Villela
 
+### M.I. Alejandro Ruiz Esparza Rodríguez
+
 ### M.I. Erik Peña Medina
 
 ## Introducción 
@@ -32,3 +34,5 @@ Este repositorio contiene los archivos necesarios para realizar las prácticas d
 | **RICF** | Felipe Rivas Campos [GitHub profile](https://github.com/rivascf) |
 | **EPM**  | Erik Peña Medina [GitHub profile](https://github.com/ErikFiUNAM) |
 | **MGR-MX** | Mechatronics Research Group, México [GitHub profile](https://github.com/mrg-mx) |
+
+#### Material realizado en el Departamento de Ingeniería Mecatrónica, Facultad de Ingeniería, UNAM, CU, mediante el apoyo de la Dirección General de Asuntos del Personal Académico, Dirección de Apoyo a la Docencia, mediante el proyecto PAPIME PE107220 “Fortalecimiento de la enseñanza de la asignatura de robótica mediante la elaboración de material didáctico”
